@@ -1,0 +1,14 @@
+h1:hover{
+	color:black;
+
+}
+.img-responsive{
+	transition: all 1s;
+}
+
+.img-responsive:hover{
+	transform: scale(1.1);
+}
+.hey{
+	background-color:pink;
+}
